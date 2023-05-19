@@ -1,1 +1,1 @@
-# Django-training-web-app
+# Django training web app
